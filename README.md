@@ -10,13 +10,11 @@ CS Student at UNC Chapel Hill, Open Source Advocate, and Video Production Profes
 
 ### ✨Favorite Projects:
 
-  - 🪶[Plover](https://github.com/openstenoproject/plover)
-  - 🔎[Zoxide](https://github.com/ajeetdsouza/zoxide)
-  - 💪🏽[NVChad](https://github.com/NvChad/NvChad)
-  - 🕸️[obsidian.nvim](https://github.com/epwalsh/obsidian.nvim)
-  - 💡[Glow](https://github.com/charmbracelet/glow)
-  - 🛰️[WebODM](https://github.com/OpenDroneMap/WebODM)
-  - 💬[Espanso](https://github.com/espanso/espanso)
-  - 🏡[Home Assistant](https://github.com/home-assistant)
+| Name | Link | Name | Link |
+|------|------|------|------|
+| 🪶  Plover | [Plover](https://github.com/openstenoproject/plover) |💡   Glow | [Glow](https://github.com/charmbracelet/glow) |
+| 🔎    Zoxide | [Zoxide](https://github.com/ajeetdsouza/zoxide) |🛰️   WebODM | [WebODM](https://github.com/OpenDroneMap/WebODM) |
+| 💪🏽  NVChad | [NVChad](https://github.com/NvChad/NvChad) |💬    Espanso | [Espanso](https://github.com/espanso/espanso) |
+| 🕸️   obsidian.nvim | [obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) |🏡    Home Assistant | [Home Assistant](https://github.com/home-assistant) |
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikhatibak&show_icons=true&rank_icon=github&include_all_commits=true&title_color=9F64FF&icon_color=9F64FF&ring_color=9F64FF&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
