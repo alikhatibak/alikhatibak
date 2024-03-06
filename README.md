@@ -8,7 +8,7 @@ CS Student at UNC Chapel Hill, Open Source Advocate, and Video Production Profes
 - 💬 Ask me about [Obsidian.md](https://obsidian.md), [Neovim](https://github.com/neovim/neovim), [Tmux](https://github.com/tmux/tmux), all things terminal, and [Video Production](https://www.orixproductions.com/)
 - 📫 How to reach me: ali@alikhatib.com for professional inquiries, ali@orixproductions.com for video related inquiries, and @alikhatibak on socials!
 
-### ✨Favorite Projects:
+### ✨Spotlight:
 
 | Name | Link | Name | Link |
 |------|------|------|------|
