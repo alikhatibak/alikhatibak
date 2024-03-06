@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://github.com/alikhatibak/alikhatibak/blob/main/git.png" width="200"/>
-</div>
-
 # Ali K. Khatib
 CS Student at UNC Chapel Hill, Open Source Advocate, and Video Production Professional
 
