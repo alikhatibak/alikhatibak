@@ -1,6 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/uDB9FWbqPUoNUMOiEh/giphy.gif?cid=ecf05e471hnha2v860kq1bx2wp5m5o720pdrjhtcgw9e0wok&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
+</div>
+
 # Ali K. Khatib
 CS Student at UNC Chapel Hill, Open Source Advocate, and Video Production Professional
-
 
 ### 👋 Hi :) 
 
