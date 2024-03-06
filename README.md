@@ -17,4 +17,4 @@ CS Student at UNC Chapel Hill, Open Source Advocate, and Video Production Profes
 | 💪🏽  NVChad | [NVChad](https://github.com/NvChad/NvChad) |💬    Espanso | [Espanso](https://github.com/espanso/espanso) |
 | 🕸️   obsidian.nvim | [obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) |🏡    Home Assistant | [Home Assistant](https://github.com/home-assistant) |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikhatibak&show_icons=true&rank_icon=github&include_all_commits=true&title_color=9F64FF&icon_color=9F64FF&ring_color=9F64FF&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikhatibak&show_icons=true&rank_icon=github\&title_color=9F64FF&icon_color=9F64FF&ring_color=9F64FF&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
