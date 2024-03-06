@@ -19,3 +19,5 @@ CS Student at UNC Chapel Hill, Open Source Advocate, and Video Production Profes
   - 🛰️[WebODM](https://github.com/OpenDroneMap/WebODM)
   - 💬[Espanso](https://github.com/espanso/espanso)
   - 🏡[Home Assistant](https://github.com/home-assistant)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alikhatibak&show_icons=true&rank_icon=github&include_all_commits=true&title_color=9F64FF&icon_color=9F64FF&ring_color=9F64FF&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
